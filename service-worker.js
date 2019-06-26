@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/zagladin/react-neon/precache-manifest.dd5f5a28c4f147ca158b7d1f741c2c01.js"
+  "/zagladin/precache-manifest.5c5c5ec3ff75393f462cbe12064e1e6f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/zagladin/react-neon/index.html", {
+workbox.routing.registerNavigationRoute("/zagladin/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
