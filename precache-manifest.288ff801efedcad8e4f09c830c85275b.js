@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/react-neon/static/js/runtime~main.46bd4077.js"
   },
   {
-    "revision": "f5df691ad56d780efa66",
-    "url": "/react-neon/static/js/main.f5df691a.chunk.js"
+    "revision": "32a92f9ca6bea92e1e0c",
+    "url": "/react-neon/static/js/main.32a92f9c.chunk.js"
   },
   {
     "revision": "049b34e0f0c27ebb2e7e",
     "url": "/react-neon/static/js/2.049b34e0.chunk.js"
   },
   {
-    "revision": "f5df691ad56d780efa66",
-    "url": "/react-neon/static/css/main.1c21d786.chunk.css"
+    "revision": "32a92f9ca6bea92e1e0c",
+    "url": "/react-neon/static/css/main.b269e4f5.chunk.css"
   },
   {
-    "revision": "cb7a2e01a758e760c19dda9ad3424226",
+    "revision": "fb0cb604294f906c0ff362a108656df7",
     "url": "/react-neon/index.html"
   }
 ];
