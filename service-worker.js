@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-neon/precache-manifest.3bca7957a9827fba6615b4fd587bc636.js"
+  "/react-neon/precache-manifest.169d206d4186809a9cba972ad5b12099.js"
 );
 
 workbox.clientsClaim();

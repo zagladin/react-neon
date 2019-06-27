@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/react-neon/static/media/neoneon-webfont.51d7ef46.ttf"
   },
   {
-    "revision": "2ddf24a1a200bd3f02ca",
-    "url": "/react-neon/static/css/main.1ce25aee.chunk.css"
+    "revision": "9f28d2665ee97d2b3045",
+    "url": "/react-neon/static/css/main.86ced9d0.chunk.css"
   },
   {
     "revision": "46bd4077025f57816fe4",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/react-neon/static/media/neoneon-webfont.5a3a57ce.woff"
   },
   {
-    "revision": "2ddf24a1a200bd3f02ca",
-    "url": "/react-neon/static/js/main.2ddf24a1.chunk.js"
+    "revision": "9f28d2665ee97d2b3045",
+    "url": "/react-neon/static/js/main.9f28d266.chunk.js"
   },
   {
     "revision": "0c2555f5195a5f4833e3177065ca1d7c",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/react-neon/static/media/email.2276d9a1.png"
   },
   {
-    "revision": "304741e0194ae9becb37aa35296deb67",
+    "revision": "8c18bae1ccaa7403ea544922ec42bc7a",
     "url": "/react-neon/index.html"
   }
 ];
