@@ -1,17 +1,18 @@
 {
-  "main.css": "/react-neon/static/css/main.b269e4f5.chunk.css",
-  "main.js": "/react-neon/static/js/main.32a92f9c.chunk.js",
-  "main.js.map": "/react-neon/static/js/main.32a92f9c.chunk.js.map",
+  "main.css": "/react-neon/static/css/main.1ce25aee.chunk.css",
+  "main.js": "/react-neon/static/js/main.2ddf24a1.chunk.js",
+  "main.js.map": "/react-neon/static/js/main.2ddf24a1.chunk.js.map",
   "runtime~main.js": "/react-neon/static/js/runtime~main.46bd4077.js",
   "runtime~main.js.map": "/react-neon/static/js/runtime~main.46bd4077.js.map",
   "static/js/2.049b34e0.chunk.js": "/react-neon/static/js/2.049b34e0.chunk.js",
   "static/js/2.049b34e0.chunk.js.map": "/react-neon/static/js/2.049b34e0.chunk.js.map",
   "index.html": "/react-neon/index.html",
-  "precache-manifest.288ff801efedcad8e4f09c830c85275b.js": "/react-neon/precache-manifest.288ff801efedcad8e4f09c830c85275b.js",
+  "precache-manifest.3bca7957a9827fba6615b4fd587bc636.js": "/react-neon/precache-manifest.3bca7957a9827fba6615b4fd587bc636.js",
   "service-worker.js": "/react-neon/service-worker.js",
-  "static/css/main.b269e4f5.chunk.css.map": "/react-neon/static/css/main.b269e4f5.chunk.css.map",
+  "static/css/main.1ce25aee.chunk.css.map": "/react-neon/static/css/main.1ce25aee.chunk.css.map",
   "static/media/email.png": "/react-neon/static/media/email.2276d9a1.png",
   "static/media/linked-round.png": "/react-neon/static/media/linked-round.6976c96a.png",
+  "static/media/index.scss": "/react-neon/static/media/neoneon-webfont.5a3a57ce.woff",
   "static/media/tlgrm-round.png": "/react-neon/static/media/tlgrm-round.d4d3f4e0.png",
   "static/media/Wrapper.scss": "/react-neon/static/media/wall.0c2555f5.jpg"
 }
