@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/react-neon/static/media/email.2276d9a1.png"
   },
   {
-    "revision": "0acc5e761a2604c630ed37ff81b87eba",
+    "revision": "271758950ebb5fb66430b1e3ebb3f30f",
     "url": "/react-neon/index.html"
   }
 ];
