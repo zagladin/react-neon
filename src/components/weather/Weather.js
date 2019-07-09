@@ -30,8 +30,7 @@ class Weather extends Component {
       let entrypoint = `${url}?lat=${position.coords.latitude}&lon=${position.coords.longitude}&appid=${APIKey}`;
 
       this.setState({
-        accuracy: position.coords.accuracy,
-        // loader: 'block',
+        accuracy: position.coords.accuracy.toFixed(0),
       });
 
       axios.get(entrypoint).then(res => {
@@ -41,10 +40,6 @@ class Weather extends Component {
             parseFloat(res.data.main.temp - 273.15).toFixed(1),
             res.data.main.humidity, res.data.main.pressure * 0.75,
             res.data.clouds.all);
-
-        // this.setState({
-        //     loader: 'none',
-        // });
       });
     };
 

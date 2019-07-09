@@ -3,6 +3,7 @@
   font-size: 72px;
   font-family: 'neoneonregular', serif;
   color: #fff;
+  background-color: #00000099;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 40px #ff0080, 0 0 55px #ff0080, 0 0 75px #ff0080;
   padding: 60px;
   -webkit-border-radius: 20px;
@@ -22,7 +23,7 @@
     transform: rotate(-12deg);
     margin-top: -48px;
     margin-left: 92px;
-    animation: flicker-text 3s infinite alternate;
+    //animation: flicker-text 3s infinite alternate;
 
   }
 
@@ -123,7 +124,7 @@
   @media (max-width: 540px) {
     font-size: 24px;
     text-align: center;
-    width: 200px;
+    width: 240px;
 
     .caption {
       font-family: 'Vibur', cursive;

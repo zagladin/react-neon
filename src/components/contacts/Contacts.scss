@@ -8,6 +8,7 @@
   -moz-border-radius: 20px;
   border: 0.2rem solid #fff;
   border-radius: 20px;
+  background-color: #00000099;
   //animation: flicker-board 5s infinite alternate;
 
   box-shadow: 0 0 .5rem #fff,
@@ -45,7 +46,7 @@
     font-size: 55px;
     text-align: center;
     margin-bottom: 48px;
-    animation: flicker-text 2s infinite alternate;
+    //animation: flicker-text 2s infinite alternate;
 
     @keyframes flicker-text {
 
@@ -92,7 +93,7 @@
   @media (max-width: 540px) {
     font-size: 24px;
     text-align: center;
-    width: 200px;
+    width: 240px;
 
     .header {
       font-size: 45px;

@@ -21,15 +21,6 @@ class Clock extends Component {
 							month: 'long',
 							day: 'numeric'
 					});
-				// navigator.language === "ru-RU" ? fullDate = date.toLocaleDateString("ru-RU", {
-				// 		day: 'numeric',
-				// 		month: 'long',
-				// 		weekday: 'long'
-				// }) : fullDate = date.toLocaleDateString("en-EN", {
-				// 		weekday: 'long',
-				// 		month: 'long',
-				// 		day: 'numeric'
-				// });
 				this.setState({
 						fullDate: fullDate
 				});

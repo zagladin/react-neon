@@ -1,6 +1,7 @@
 .weather-info {
   width: fit-content;
   color: white;
+  background-color: rgba(0, 0, 0, 0.1);
   font-family: 'Righteous', cursive;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 40px #ff0080, 0 0 55px #ff0080, 0 0 75px #ff0080;
   padding: 60px;
@@ -72,7 +73,7 @@
 
   @media (max-width: 540px) {
     text-align: center;
-    width: 200px !important;
+    width: 240px !important;
     padding: 30px;
 
     .weather-values {
